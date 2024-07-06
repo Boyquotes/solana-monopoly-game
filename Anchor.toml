@@ -5,7 +5,7 @@ seeds = false
 skip-lint = false
 
 [programs.localnet]
-monopoly_program = "GMDedNzaiCffFmBNVBDUzd6Ub6XLQ4xhoWfswBRmYqbG"
+monopoly_program = "H37P3e9ZRpNHSLacyKCNVcn6PRxjoX5jaTV4pUEXYYWv"
 
 [registry]
 url = "https://api.apr.dev"

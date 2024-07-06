@@ -16,8 +16,9 @@ asset_dir = "assets"
 [web.app]
 
 # HTML title tag content
-title = "大富翁"
-base_path = "solana-monopoly-game-frontend-deploy"
+title = "ATO"
+#base_path = "/"
+#base_path = "solana-monopoly-game-frontend-deploy"
 
 [web.watcher]
 
